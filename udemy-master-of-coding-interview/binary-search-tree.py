@@ -1,9 +1,13 @@
+from node import Node
+
+
 class BinarySearchTree:
     
     def __init__(self):
         self.root = null;
     
     def insert(value):
+        new_node = Node(value)
         pass
 
     def lookup(value):
