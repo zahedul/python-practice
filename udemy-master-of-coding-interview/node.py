@@ -1,7 +1,7 @@
 class Node:
     
     def __init__(self, value):
-        self.left = null
-        self.right = null
+        self.left = None
+        self.right = None
         self.value = value
     
