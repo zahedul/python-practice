@@ -1,3 +1,3 @@
-### Python Practive Codebase
+### Python Practice Codebase
 
 - hackerrank
